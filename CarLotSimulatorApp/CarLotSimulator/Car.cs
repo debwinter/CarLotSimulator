@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CarLotSimulator
 {
-    //Create a seperate class file called Car
+    //Create a separate class file called Car
     //Car shall have the following properties: Year, Make, Model, EngineNoise, HonkNoise, IsDriveable
     //Car shall have the following methods: MakeEngineNoise(), MakeHonkNoise()
     //The methods should take one string parameter: the respective noise property
